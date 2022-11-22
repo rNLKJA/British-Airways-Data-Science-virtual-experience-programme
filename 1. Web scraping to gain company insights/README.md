@@ -2,6 +2,10 @@
 
 <https://www.theforage.com/modules/NjynCWzGSaWXQCxSX/X839TXojBwiHpC5va?ref=SfSqDihCcvSen4csq>
 
+## Instruction
+
+<p><a href="https://www.theforage.com/modules/NjynCWzGSaWXQCxSX/X839TXojBwiHpC5va?ref=SfSqDihCcvSen4csq&amp;wvideo=dlg3xcaofh"><img src="https://embed-ssl.wistia.com/deliveries/ee5358c7f1b82977894846a0d8ae5f4c.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=ce2010e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://www.theforage.com/modules/NjynCWzGSaWXQCxSX/X839TXojBwiHpC5va?ref=SfSqDihCcvSen4csq&amp;wvideo=dlg3xcaofh">BA_Data Analytics_Task 1Susan_Robinson</a></p>
+
 ## Background
 
 British Airways (BA) is the flag carrier airline of the United Kingdom (UK). Every day, thousands of BA flights arrive to and depart from the UK, carrying customers across the world. Whether it’s for holidays, work or any other reason, the end-to-end process of scheduling, planning, boarding, fuelling, transporting, landing, and continuously running flights on time, efficiently and with top-class customer service is a huge task with many highly important responsibilities.

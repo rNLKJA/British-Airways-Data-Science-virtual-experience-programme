@@ -1,0 +1,2 @@
+header,rating,review_date,comment,trip_verified,aircraft,type_of_traveller,seat_type,route,date_flown,seat_comfort,cabin_staff_service,food_and_beverages,ground_service,value_for_money,wifi_and_connecticity,recommend
+"""Great experience""",10,2019-10-29,"Mannheim to Berlin. Great experience, flying like in the past: good service, no queues, customers first.  I can recommend.",True,,Business,Economy Class,Mannheim to Berlin,October 2019,4,5,,5,5,,True
